@@ -11,7 +11,7 @@ red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
 clear
-toilet -f slant "TO-PANDA" | lolcat
+toilet -f slant "PA-TOOLS" | lolcat
 sleep 2
 printf "\033[35;1m Nickname mu siapa? : "
 read nick
@@ -23,9 +23,9 @@ sleep 2
 printf "\033[35;1m Sabar Tod"
 sleep 2
 clear
-toilet -f slant "TO-PANDA" | lolcat
+toilet -f slant "PA-TOOLS" | lolcat
 sleep 0.5
-printf "\033[31;1m By : Panda"
+printf "\033[31;1m Coded By : Panda"
 printf ""
 sleep 0.5
 printf "\033[32;1m Instagram : @mfakhri_f"
