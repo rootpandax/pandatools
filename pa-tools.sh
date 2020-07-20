@@ -64,6 +64,7 @@ read -p "masukkan pilihan : " pil
 if [ $pil = 1 ]
 then
 clear
+toilet -f slant "PA-TOOLS" | lolcat
 git clone https://github.com/sqlmapproject/sqlmap
 cd sqlmap
 python sqlmap.py 
@@ -72,6 +73,7 @@ fi
 if [ $pil = 2 ]
 then
 clear
+toilet -f slant "PA-TOOLS" | lolcat
 git clone https://github.com/rootpandax/Spamc4ll
 cd Spamc4ll
 bash spamcall.sh
@@ -80,12 +82,14 @@ fi
 if [ $pil = 3 ]
 then
 clear
+toilet -f slant "PA-TOOLS" | lolcat
 git clone https://github.com/aboul3la/Sublist3r
 fi
 
 if [ $pil = 4 ]
 then
 clear
+toilet -f slant "PA-TOOLS" | lolcat
 git clone https://github.com/sullo/nikto
 cd nikto
 cd program
@@ -95,6 +99,7 @@ fi
 if [ $pil = 5 ]
 then
 clear
+toilet -f slant "PA-TOOLS" | lolcat
 git clone https://github.com/htr-tech/zphisher
 cd zphisher
 ./zphisher.sh
@@ -102,24 +107,28 @@ fi
 
 if [ $pil == 6 ]
 then
+toilet -f slant "PA-TOOLS" | lolcat
 clear
 git clone https://github.com/thewhiteh4t/seeker
 fi
 
 if [ $pil = 7 ]
 then
-clear
+
+cleartoilet -f slant "PA-TOOLS" | lolcat
 git clone 
 fi
 
 if [ $pil = 8 ]
 then
+toilet -f slant "PA-TOOLS" | lolcat
 clear
 git clone https://github.com/saydog/Virus-droid-creator
 fi
 
 if [ $pil = 10 ]
 then
+toilet -f slant "PA-TOOLS" | lolcat
 clear
 gem install aquatone
 aquatone --help
@@ -128,24 +137,28 @@ fi
 if [ $pil = 11 ]
 then
 clear
+toilet -f slant "PA-TOOLS" | lolcat
 git clone https://github.com/An0nUD4Y/blackeye
 fi
 
 if [ $pil = 12 ]
 then
 clear
+toilet -f slant "PA-TOOLS" | lolcat
 git clone https://github.com/m4ll0k/WAScan
 fi
 
 if [ $pil = 13 ]
 then
 clear
+toilet -f slant "PA-TOOLS" | lolcat
 git clone https://github.com/the-robot/sqliv
 fi
 
 if [ $pil = 14 ]
 then
 clear
+toilet -f slant "PA-TOOLS" | lolcat
 gem install XSpear
 Xspear --help
 fi
@@ -153,7 +166,13 @@ fi
 if [ $pil = 15 ]
 then
 clear
+sleep 0.5
 echo by $nick
+sleep 0.5
+echo "Semoga Harimu Menyenangkan"
+sleep 0.5
+echo "TTD admin galau :v"
+sleep 0.5
 exit
 fi
 
