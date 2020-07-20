@@ -16,7 +16,7 @@ sleep 2
 printf "\033[35;1m Nickname mu siapa? : "
 read nick
 sleep 2
-echo welcome $nick lol
+echo welcome $nick Telaso :v
 sleep 2
 clear
 sleep 2
