@@ -28,7 +28,7 @@ sleep 0.5
 printf "\033[31;1m By : Panda"
 printf ""
 sleep 0.5
-printf "\033[32;1m Instagram : @mfakhri_F"
+printf "\033[32;1m Instagram : @mfakhri_f"
 printf ""
 sleep 0.5
 printf ""
