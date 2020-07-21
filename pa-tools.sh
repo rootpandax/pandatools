@@ -118,7 +118,7 @@ then
 cleartoilet -f slant "PA-TOOLS" | lolcat
 git clone https://github.com/saydog/Virus-droid-creator
 fi
-fi
+
 
 if [ $pil = 8 ]
 then
