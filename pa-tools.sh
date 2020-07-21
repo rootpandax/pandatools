@@ -45,10 +45,10 @@ echo '[1].sqlmap
 [3].sublist3r
 [4].nikto
 [5].zphisher
-[6].Lacak lokasi
+[6].Lacak lokasi (seeker)
 [7].Virusdroidcreator
-[8].phoneinfoga
-[9].Osi.ig
+[8].phoneinfoga (work for linux)
+[9].Osi.ig (tools for osint ig)
 [10].aquatone
 [11].blackeye
 [12].WAScan
@@ -116,14 +116,22 @@ if [ $pil = 7 ]
 then
 
 cleartoilet -f slant "PA-TOOLS" | lolcat
-git clone 
+git clone https://github.com/saydog/Virus-droid-creator
+fi
 fi
 
 if [ $pil = 8 ]
 then
 toilet -f slant "PA-TOOLS" | lolcat
 clear
-git clone https://github.com/saydog/Virus-droid-creator
+git clone https://github.com/sundowndev/PhoneInfoga
+fi
+
+if [ $pil = 9 ]
+then
+toilet -f slant "PA-TOOLS" | lolcat
+clear
+git clone https://github.com/th3unkn0n/osi.ig
 fi
 
 if [ $pil = 10 ]
